@@ -145,15 +145,15 @@ backend/routes/api.php
 
 ### Home Page
 
-![Home Page](screenshots/home-page.png)
+![Home Page](screenshots/homePage.png)
 
 ### Login Page
 
-![Login Page](screenshots/login-page.png)
+![Login Page](screenshots/loginPage.png)
 
 ### Subscription Products Page
 
-![Subscription Page](screenshots/subscription-page.png)
+![Subscription Page](screenshots/subscription-page.jpeg)
 
 ---
 
