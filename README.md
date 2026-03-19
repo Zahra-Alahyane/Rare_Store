@@ -145,19 +145,16 @@ backend/routes/api.php
 
 ### Home Page
 
-![Home Page](screenshots/homePage.png)
+![Home Page](screenshots/home-page.png)
 
 ### Login Page
 
-![Login Page](screenshots/loginPage.png)
+![Login Page](screenshots/login-page.png)
 
-Products Page
+### Subscription Products Page
 
-![Products Page](screenshots/colloection.png)
+![Subscription Page](screenshots/subscription-page.png)
 
-### Subscription message
-
-![Subscription Page](screenshots/email mess.jpeg)
 ---
 
 ## 🎯 Future Improvements
